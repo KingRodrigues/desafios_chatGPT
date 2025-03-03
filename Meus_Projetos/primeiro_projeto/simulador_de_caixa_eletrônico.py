@@ -1,4 +1,3 @@
-
 saldo_inicial = 1000
 
 def depositar():
