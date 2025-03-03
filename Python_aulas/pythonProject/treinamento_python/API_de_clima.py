@@ -1,1 +1,0 @@
-# usando a API OpenWeatherMap, crie um programa que, dado o nome de uma cidade, exiba o clima atual e a previsão para os próximos dias.

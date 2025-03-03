@@ -1,1 +1,0 @@
-# Escreva um script que gera senhas aleatórias de um comprimento especificado e que atende a requisitos de complexidade (letras maiúsculas, minúsculas, números e símbolos).
